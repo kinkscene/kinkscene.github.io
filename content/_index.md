@@ -1,27 +1,24 @@
 ---
-title: 🪴 Quartz 3.3
+title: The Kinkscene Wiki
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Kinkscene is a wiki intended for members of the San Francisco kink community. It contains information on many topics that may be helpful for people new to the city or the local kink scene.
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+These are links to "tag" pages that link out to a large number of topic pages. Think of them as jumping off points for subjects.
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+- [Events](/tags/events)
+- [Education](/tags/education)
+- [Play Spaces](/tags/venues)
+- [Shopping](/tags/shopping)
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+Many events in San Francisco are open to people of all persuasions, but there are some events/venues/organizations that are intended for specific people.
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+- LGBT (general)
+- [Lesbian](/tags/lesbian)
+- Gay Men
+- [Transgender](/tags/transgender) people
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+Much of the information here is public knowledge, but we struggled to find a single resource to point new people to that organized everything into one place.
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
+This wiki is a work in progress, if you see something that is missing or wrong, feel free to open an issue, pull request, or contact the site's administrator.
