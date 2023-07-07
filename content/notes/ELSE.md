@@ -3,7 +3,7 @@ title: 'ELSE'
 tags:
 - transgender
 - events
-- organization
+- organizations
 - munches
 ---
 
