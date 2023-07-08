@@ -11,8 +11,15 @@ San Francisco has one of the largest populations of transgender people in the Un
 
 # Organizations
 - [[notes/ELSE|ELSE]] (kink organization for non-cisgender people)
+- [[notes/Histrionixx|Histrionixx]] (nightlife events)
+
+# Locations
 - [[notes/Liminal Space|Liminal Space]] (trans-centering art gallery)
+- [[notes/Loophole|Loophole]] (iykyk)
+- [[notes/Enzyme|Enzyme]] (trans event space)
 
 # Events
 - [[notes/T-Slur Thursdays|T-Slur Thursdays]] (trans-run DJ night at a club in Oakland)
 - [[notes/Gender Fuck|Gender Fuck]] (trans night at a bathhouse in Berkley)
+- [[notes/Loophole Rope Jam|Loophole Rope Jam]] (weekly rope jam)
+- [[notes/Transtrendr|Transtrendr]] (yearly rave during Pride Weekend)
