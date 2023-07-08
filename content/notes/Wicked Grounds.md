@@ -1,7 +1,6 @@
 ---
 title: 'Wicked Grounds'
 tags:
-- events
 - education
 - shopping
 ---

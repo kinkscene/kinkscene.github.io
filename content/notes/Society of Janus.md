@@ -2,7 +2,6 @@
 title: "Society of Janus"
 tags:
   - organizations
-  - events
   - munches
   - education
 ---

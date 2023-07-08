@@ -2,7 +2,6 @@
 title: 'Transform 1060'
 tags:
 - venues
-- events
 - gay-men
 ---
 
