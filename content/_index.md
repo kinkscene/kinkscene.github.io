@@ -7,6 +7,7 @@ Kinkscene is a wiki intended for members of the San Francisco kink and queer com
 
 - [[notes/Guide-Kinky|Guide for Kinksters new to or Visiting SF]]
 - [[notes/Guide-trans|Guide for Transgender People]]
+- [[notes/Guide-alcoholfree|Guide to Alcohol-Free Queer Spaces]]
 
 These are links to "tag" pages that link out to a large number of topic pages. Think of them as jumping off points for subjects.
 

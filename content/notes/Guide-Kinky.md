@@ -1,5 +1,7 @@
 ---
 title: "A new kinkster's guide to SF"
+tags:
+- guides
 ---
 
 If you're new to San Francisco or just visiting for a few days and looking for kinky events or locales to meet people, this is the page for you! [[notes/erobay|Erobay]] is a great place to start to see if there are events happening while you're in town.

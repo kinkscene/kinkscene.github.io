@@ -2,6 +2,7 @@
 title: "Events for transgender people"
 tags:
 - transgender
+- guides
 ---
 
 > [!note]
