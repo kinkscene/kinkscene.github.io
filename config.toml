@@ -1,6 +1,6 @@
-baseURL = "https://kinkscene.xyz/"
+# baseURL = "https://kinkscene.xyz/"
 languageCode = "en-us"
-relativeURLs = false
+relativeURLs = true
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
