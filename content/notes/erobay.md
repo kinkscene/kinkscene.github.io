@@ -2,7 +2,7 @@
 title: "erobay.com"
 tags:
   - website
-  - events
+  - calendars
 ---
 
 [erobay.com](https://erobay.com) is (according to themselves) "the main BDSM calendar serving the Bay Area. If you look here you will see most of the classes, munches, parties, and other events taking place. It includes all the BDSM events from all the spaces below as well as many more."

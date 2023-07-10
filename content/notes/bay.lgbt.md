@@ -1,0 +1,84 @@
+---
+title: 'bay.lgbt'
+tags:
+- calendars
+- website
+---
+
+[bay.lgbt](https://bay.lgbt) is a calendar aggregator for queer events around the SF bay area. They currently aggregate events from the following sources:
+
+- A.B.O. Comix
+- [[notes/Histrionixx|Histrionixx]]
+- Digi Divas
+- Queer Cultural Center
+- Bound Together Books
+- Frameline Fest
+- Hot Goth GF Radio
+- [[notes/Batcave|Batcave]]
+- CounterPulse
+- Envelope Soundsystem
+- Poetry Slime
+- Queer Bedtime
+- [[notes/Queer Arts Featured|Queer Arts Featured]]
+- Big Leap Collective
+- Gray Area
+- non-binary run club
+- [[notes/Liminal Space|Liminal Space]] SF
+- SWITCH
+- Morning After Pill Radio
+- Karaoke with Dana
+- SOMArts Cultural Center
+- The Good Fun
+- Transgender District
+- Trans March
+- Queer Women of Color Media Arts Project
+- [[notes/Wicked Grounds|Wicked Grounds]]
+- Chub Rollz
+- The Spooky Haus
+- Oakland LGBTQ Center
+- Omni Commons
+- PLACE
+- Rock Paper Scissors Collective
+- San Francisco Pride
+- Passionfruit
+- Skate Like a Girl
+- TAC: Temescal Art Center
+- East Bay Baddie Billiards
+- [[notes/Thee Stork Club|Thee Stork Club]]
+- The Unusual
+- orifice.0
+- CircusOfSin
+- Splash
+- Silicon Valley Pride
+- The Q Corner
+- Postcards 4 LGBTQI+ Prisoners
+- Santa Cruz Dyke Trans March Collective
+- The So-so Market
+- Pajaro Valley Pride
+- Bad Bitch Burlesque
+- Comfort & Joy
+- SF LGBT Center
+- OASIS
+- Polyglamorous
+- Gemini
+- A Heaux Picnic
+- Team Wonder Dave Productions
+- Oaklash
+- queer expression
+- Motion Pacific
+- Trans Ladies Picnic
+- Billy DeFrank LGBTQ+ Community Center
+- Greater Brewing Company
+- Save SF Bay
+- El Rio
+- Adobe Books
+- [[notes/Cat Club|Cat Club]]
+- Guildhouse
+- The Neighbor's Pub
+- Sudo Room
+- The Lab
+- Indexical
+- Syzygy
+
+# Links
+- [Main Website](https://bay.lgbt)

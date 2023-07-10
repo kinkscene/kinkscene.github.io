@@ -17,3 +17,6 @@ These are queer spaces that don't center alcohol as the primary activity. There 
 
 # [[notes/The Castro|The Castro]]
 - [[notes/Queer Arts Featured|Queer Arts Featured]] (queer-centered art gallery)
+
+# Events
+- [[notes/bay.lgbt|bay.lgbt]] has listings on many queer-centering events that don't focus on alcohol
