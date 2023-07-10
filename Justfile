@@ -1,6 +1,8 @@
 # Deploy local changes to production
 deploy : build
     wrangler pages deploy public
+    @echo
+    @echo '✨ Production site: https://kinkscene.xyz'
 
 # Build a production bundle
 build :

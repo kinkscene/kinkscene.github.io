@@ -24,4 +24,4 @@ San Francisco has one of the largest populations of transgender people in the Un
 - [[notes/Gender Fuck|Gender Fuck]] (trans night at a bathhouse in Berkley)
 - [[notes/Loophole Rope Jam|Loophole Rope Jam]] (weekly rope jam)
 - [[notes/Transtrendr|Transtrendr]] (yearly rave during Pride Weekend)
-- [[notes/bay.lgbt|bay.lgbt]] (calendar aggregator)
+- [[notes/baydotlgbt|bay.lgbt]] (calendar aggregator)

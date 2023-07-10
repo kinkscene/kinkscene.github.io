@@ -1,5 +1,6 @@
 ---
 title: 'bay.lgbt'
+aliases: ['bay.lgbt']
 tags:
 - calendars
 - website
