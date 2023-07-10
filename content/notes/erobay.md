@@ -28,5 +28,7 @@ The calendars aggregated by erobay are:
 - Sacramento
 - Women's
 
+Erobay also has a [visiting SF page](https://www.erobay.com/calendar/visitingSF.html) that was a motivation behind this wiki.
+
 # Links
 - [Main Website](https://erobay.com)
