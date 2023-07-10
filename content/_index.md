@@ -22,6 +22,8 @@ Many events in San Francisco are open to people of all persuasions, but there ar
 - [Lesbians](/tags/lesbian)
 - [Gay Men](/tags/gay-men)
 - [Transgender](/tags/transgender) people
+- [People of Color](/tags/poc)
+- [TNG](/tags/tng) (The Next Generation - Kinksters under 35 or 40 depending on group)
 
 Much of the information here is public knowledge, but we struggled to find a single resource to point new people to that organized everything into one place.
 

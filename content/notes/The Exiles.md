@@ -6,7 +6,10 @@ tags:
 - munches
 ---
 
-The Exiles is a women & queer-centered BDSM organization. They host monthly virtual munches via Zoom.
+The Exiles is a women & queer-centered BDSM organization.
+
+# Events
+- Monthly virtual munches via Zoom
 
 # Links
 - [Main Website](https://theexiles.org)
