@@ -12,4 +12,4 @@ East Bay TNG is a group for kinksters aged 18-40.
 - Munches
 
 # Links
-- [[notes/Fetlife|Fetlife]] - [group](https://fetlife.com/groups/22415/about)
+- [[Fetlife]] - [group](https://fetlife.com/groups/22415/about)

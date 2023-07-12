@@ -13,4 +13,4 @@ tags:
 - Play parties
 
 # Links
-- [[notes/Fetlife|Fetlife]] - [group](https://bit.ly/elsegroup)
+- [[Fetlife]] - [group](https://bit.ly/elsegroup)

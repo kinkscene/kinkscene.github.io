@@ -4,7 +4,7 @@ tags:
 - bar
 ---
 
-Thee Stork Club is a bar in Oakland's Koreatown neighborhood. They host the [[notes/T-Slur Thursdays|T-Slur Thursdays]] event.
+Thee Stork Club is a bar in Oakland's Koreatown neighborhood. They host the [[T-Slur Thursdays]] event.
 
 # Links
 - [Main Website](https://theestorkclub.com)

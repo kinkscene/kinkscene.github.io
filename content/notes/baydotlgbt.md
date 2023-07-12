@@ -9,43 +9,43 @@ tags:
 [bay.lgbt](https://bay.lgbt) is a calendar aggregator for queer events around the SF bay area. They currently aggregate events from the following sources:
 
 - A.B.O. Comix
-- [[notes/Histrionixx|Histrionixx]]
+- [[Histrionixx]]
 - Digi Divas
 - Queer Cultural Center
 - Bound Together Books
 - Frameline Fest
 - Hot Goth GF Radio
-- [[notes/Batcave|Batcave]]
+- [[Batcave]]
 - CounterPulse
 - Envelope Soundsystem
 - Poetry Slime
 - Queer Bedtime
-- [[notes/Queer Arts Featured|Queer Arts Featured]]
+- [[Queer Arts Featured]]
 - Big Leap Collective
 - Gray Area
 - non-binary run club
-- [[notes/Liminal Space|Liminal Space]] SF
+- [[Liminal Space]] SF
 - SWITCH
 - Morning After Pill Radio
 - Karaoke with Dana
 - SOMArts Cultural Center
 - The Good Fun
 - Transgender District
-- [[notes/Trans March|Trans March]]
+- [[Trans March]]
 - Queer Women of Color Media Arts Project
-- [[notes/Wicked Grounds|Wicked Grounds]]
+- [[Wicked Grounds]]
 - Chub Rollz
 - The Spooky Haus
 - Oakland LGBTQ Center
 - Omni Commons
 - PLACE
 - Rock Paper Scissors Collective
-- [[notes/San Francisco Pride|San Francisco Pride]]
+- [[San Francisco Pride]]
 - Passionfruit
 - Skate Like a Girl
 - TAC: Temescal Art Center
 - East Bay Baddie Billiards
-- [[notes/Thee Stork Club|Thee Stork Club]]
+- [[Thee Stork Club]]
 - The Unusual
 - orifice.0
 - CircusOfSin
@@ -73,7 +73,7 @@ tags:
 - Save SF Bay
 - El Rio
 - Adobe Books
-- [[notes/Cat Club|Cat Club]]
+- [[Cat Club]]
 - Guildhouse
 - The Neighbor's Pub
 - Sudo Room

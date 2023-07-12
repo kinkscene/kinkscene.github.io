@@ -9,7 +9,7 @@ Wicked Grounds is a kink retailer and educational event host for the BDSM commun
 
 # Cafe
 
-Wicked Grounds previously operated a kink-friendly coffee shop. It was a gathering place and home to many [munches](/tags/munches) in San Francisco's [[notes/South of Market|South of Market]] neighborhood. In a [blog post](https://archive.is/QoXZZ) on June 21, 2023 it was announced that the physical location would be closing on June 30th.
+Wicked Grounds previously operated a kink-friendly coffee shop. It was a gathering place and home to many [munches](/tags/munches) in San Francisco's [[South of Market]] neighborhood. In a [blog post](https://archive.is/QoXZZ) on June 21, 2023 it was announced that the physical location would be closing on June 30th.
 
 # Wicked Annex
 

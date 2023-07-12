@@ -4,7 +4,7 @@ tags:
 - bars
 ---
 
-Jolene's is a queer bar in [[notes/The Mission|The Mission]]. They host the weekly [[notes/U-HAUL|U-HAUL]] event.
+Jolene's is a queer bar in [[The Mission]]. They host the weekly [[U-HAUL]] event.
 
 # Links
 - [Main Website](https://www.jolenessf.com/)

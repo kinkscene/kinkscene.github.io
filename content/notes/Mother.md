@@ -5,7 +5,7 @@ tags:
 - lesbian
 ---
 
-Mother is a women and femme-centered queer bar in [[notes/The Mission|The Mission]].
+Mother is a women and femme-centered queer bar in [[The Mission]].
 
 # Links
 - [Main Website](https://www.mothersf.com/home)

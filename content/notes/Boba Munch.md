@@ -12,5 +12,5 @@ tags:
 
 # Links
 - [Main Website](https://www.bobamunch.com)
-- [[notes/Fetlife|Fetlife]] - [profile](https://fetlife.com/users/14009315)
+- [[Fetlife]] - [profile](https://fetlife.com/users/14009315)
 - [Instagram](https://www.instagram.com/bobamunch/)

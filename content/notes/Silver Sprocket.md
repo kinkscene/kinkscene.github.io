@@ -5,7 +5,7 @@ tags:
 - shopping
 ---
 
-Silver Sprocket is a queer-centered comic and graphic novel store in [[notes/The Mission|The Mission]]. They also publish their own graphic novels.
+Silver Sprocket is a queer-centered comic and graphic novel store in [[The Mission]]. They also publish their own graphic novels.
 
 # Links
 - [Main Website](https://silversprocket.net)

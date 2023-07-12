@@ -22,5 +22,5 @@ Society of Janus (SoJ) has a number of programs for people in the San Francisco 
 # Links
 
 - [Main Website](https://soj.org)
-- [[notes/Fetlife|Fetlife]] - [profile](https://fetlife.com/users/1603091)
+- [[Fetlife]] - [profile](https://fetlife.com/users/1603091)
 - [Event Calendar](https://soj.org/calendar/)

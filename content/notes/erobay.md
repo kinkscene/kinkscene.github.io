@@ -9,12 +9,12 @@ tags:
 
 The calendars aggregated by erobay are:
 
-- [[notes/Society of Janus|Society of Janus]]
-- [[notes/Vox Body Studio|Vox Body Studio]]
-- [[notes/The Exiles|The Exiles]]
-- [[notes/Wicked Grounds|Wicked Grounds]]
-- [[notes/Wicked Grounds#Wicked Annex|Wicked Annex]]
-- [[notes/Black Thorn|Black Thorn]]
+- [[Society of Janus]]
+- [[Vox Body Studio]]
+- [[The Exiles]]
+- [[Wicked Grounds]]
+- [[Wicked Grounds#Wicked Annex|Wicked Annex]]
+- [[Black Thorn]]
 - Dark Odyssey
 - Transform1060
 - San Francisco Girls of Leather

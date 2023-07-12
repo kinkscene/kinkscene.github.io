@@ -4,7 +4,7 @@ tags:
 - comics
 ---
 
-Sour Cherry is a queer-centered comics shop in [[notes/The Mission|The Mission]].
+Sour Cherry is a queer-centered comics shop in [[The Mission]].
 
 # Links
 - [Main Website](https://www.sourcherrycomics.com)

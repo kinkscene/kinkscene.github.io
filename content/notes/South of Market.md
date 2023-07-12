@@ -5,23 +5,23 @@ tags:
 - neighborhoods
 ---
 
-San Francisco's South of Market (SoMa) neighborhood is home to many BDSM venues and retailers. It is the yearly site of [[notes/Folsom St Fair|Folsom St Fair]], the [[notes/Up Your Alley|Up Your Alley]] fair, and much of the history of the [[notes/Leather Subculture|Leather Subculture]] can be traced back to SoMa.
+San Francisco's South of Market (SoMa) neighborhood is home to many BDSM venues and retailers. It is the yearly site of [[Folsom St Fair]], the [[Up Your Alley]] fair, and much of the history of the [[Leather Subculture]] can be traced back to SoMa.
 
 # Bars
-- [[notes/Cat Club|Cat Club]]
-- [[notes/SF Eagle|SF Eagle]]
+- [[Cat Club]]
+- [[SF Eagle]]
 
 # Event Venues
-- [[notes/Transform 1060|Transform 1060]]
-- [[notes/Enzyme|Enzyme]]
+- [[Transform 1060]]
+- [[Enzyme]]
 
 # Shopping
-- [[notes/Mr. S Leather|Mr. S Leather]]
-- [[notes/Leather Etc|Leather Etc]]
+- [[Mr. S Leather]]
+- [[Leather Etc]]
 
 # Festivals
-- [[notes/Folsom St Fair|Folsom St Fair]]
-- [[notes/Up Your Alley|Up Your Alley]]
+- [[Folsom St Fair]]
+- [[Up Your Alley]]
 
 # Links
 - [Map of kink venues in SoMa](https://www.google.com/maps/d/u/0/viewer?mid=1hX419SUvLz1Yp8uXo6xMH7ldHH7me5_a&ll=37.776530610281405%2C-122.41354011097717&z=15)

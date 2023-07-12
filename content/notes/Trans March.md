@@ -5,7 +5,7 @@ tags:
 - transgender
 ---
 
-Trans March is a march of Transgender people and allies in San Francisco from [[notes/Dolores Park|Dolores Park]] to Civic Center on the Friday of [[notes/Pride Weekend|Pride Weekend]] each year. It is the largest trans pride event in San Francisco and one of the largest trans pride events in the world.
+Trans March is a march of Transgender people and allies in San Francisco from [[Dolores Park]] to Civic Center on the Friday of [[Pride Weekend]] each year. It is the largest trans pride event in San Francisco and one of the largest trans pride events in the world.
 
 # History
 - 2004 - First trans march

@@ -4,7 +4,7 @@ tags:
 - events
 ---
 
-PlayXLand (pronounced "playland") is a BDSM event that occurs every Wednesday night at [[notes/Cat Club|Cat Club]]. Aside from being a normal bar serving alcohol with DJs, there is a limited play space in the back room where there are one or more sawhorse-style spanking benches, a St. Andrew's cross, a hardpoint on the ceiling for rope suspensions or spreader bars, and a set of house impact toys that can be used for scenes. Most people planning on playing come with a partner, but you can sometimes find partners for pickup play.
+PlayXLand (pronounced "playland") is a BDSM event that occurs every Wednesday night at [[Cat Club]]. Aside from being a normal bar serving alcohol with DJs, there is a limited play space in the back room where there are one or more sawhorse-style spanking benches, a St. Andrew's cross, a hardpoint on the ceiling for rope suspensions or spreader bars, and a set of house impact toys that can be used for scenes. Most people planning on playing come with a partner, but you can sometimes find partners for pickup play.
 
 There is usually at least one person that does a rope suspension early in the night, many people doing impact play, and sometimes people will bring in electro toys such as violet wands, tasers and cattle prods.
 
@@ -22,4 +22,4 @@ In addition to the normal type of consent rules that you might expect to find at
 
 # Links
 - [Instagram](https://www.instagram.com/playxlandsf/)
-- [[notes/Fetlife|Fetlife]] - [profile](https://fetlife.com/users/14197003)
+- [[Fetlife]] - [profile](https://fetlife.com/users/14197003)
