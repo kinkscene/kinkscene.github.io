@@ -9,8 +9,10 @@ Transform 1060 is a BDSM dungeon in [[notes/South of Market|SoMa]]. It is rentab
 
 # Events
 - Monthly [[notes/Release|Release]] play party open to all
-- Monthly Lust play party for queer kinksters
-- Weekly [[notes/Naked Mondays|Naked Mondays]] party for gay men
+- Monthly [[notes/Lust|Lust]] play party for queer kinksters
+- Weekly [[notes/Naked Mondays|Naked Mondays]] men-only party
+- Monthly [[notes/Rope Burn|Rope Burn]] men-only rope jam
+- Monthly [[notes/Sleaze|Sleaze]] men-only play party
 
 # History
 - 2009 (approx) - 2014 - Space used by OneTaste - [2009 archived page](https://web.archive.org/web/20100831175613/http://www.onetaste.us/centers.php), [2014 archived page](https://web.archive.org/web/20140208042818/http://onetaste.us/legal/)
