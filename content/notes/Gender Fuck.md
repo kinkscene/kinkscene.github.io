@@ -1,7 +1,7 @@
 ---
 title: 'Gender Fuck'
 tags:
-- event
+- events
 - transgender
 ---
 

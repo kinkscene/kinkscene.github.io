@@ -31,7 +31,7 @@ tags:
 - SOMArts Cultural Center
 - The Good Fun
 - Transgender District
-- Trans March
+- [[notes/Trans March|Trans March]]
 - Queer Women of Color Media Arts Project
 - [[notes/Wicked Grounds|Wicked Grounds]]
 - Chub Rollz
@@ -40,7 +40,7 @@ tags:
 - Omni Commons
 - PLACE
 - Rock Paper Scissors Collective
-- San Francisco Pride
+- [[notes/San Francisco Pride|San Francisco Pride]]
 - Passionfruit
 - Skate Like a Girl
 - TAC: Temescal Art Center

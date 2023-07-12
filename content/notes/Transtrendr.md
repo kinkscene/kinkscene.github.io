@@ -5,7 +5,7 @@ tags:
   - transgender
 ---
 
-Transtrendr is a rave event that takes place yearly during San Francisco Pride weekend after Trans March.
+Transtrendr is a rave event that takes place yearly during [[notes/Pride Weekend|Pride Weekend]] after [[notes/Trans March|Trans March]].
 
 # Links
 

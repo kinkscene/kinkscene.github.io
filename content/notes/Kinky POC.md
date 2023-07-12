@@ -1,7 +1,7 @@
 ---
 title: 'Kinky POC'
 tags:
-- organization
+- organizations
 - poc
 - munches
 ---

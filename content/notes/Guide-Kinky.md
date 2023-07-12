@@ -12,7 +12,7 @@ If you're new to San Francisco or just visiting for a few days and looking for k
 
 # Large Festivals
 You may have been lucky enough (or smart enough) to end up in San Francisco at the same time as one of our world-famous kink festivals.
-- Visiting in late June? Look for [[notes/Leather Alley|Leather Alley]] at San Francisco Pride
+- Visiting in late June? Look for [[notes/Leather Alley|Leather Alley]] at the [[notes/San Francisco Pride Celebration|San Francisco Pride Celebration]]
 - Late July? Check out the [[notes/Up Your Alley|Up Your Alley]] fair
 - End of September? Go to [[notes/Folsom St Fair|Folsom St Fair]]
 

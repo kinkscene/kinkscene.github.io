@@ -1,7 +1,7 @@
 ---
 title: 'T-Slur Thursdays'
 tags:
-- event
+- events
 - transgender
 ---
 
