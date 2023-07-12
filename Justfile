@@ -5,9 +5,13 @@ deploy : build
     @echo '✨ Production site: https://kinkscene.xyz'
 
 # Build a production bundle
-build :
+build : clean
     hugo-obsidian -input=content -output=assets/indices -index -root=.
     hugo --minify
+
+# Delete existing build artifacts
+clean :
+    rm -rf public assets/indices/*.json
 
 # Build a production bundle and serve it locally
 serve-prod-bundle : build
