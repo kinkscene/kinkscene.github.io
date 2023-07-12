@@ -67,7 +67,7 @@
       {{$block := default "" (index $reference 1)}}
       {{$block = strings.TrimRight "/" (cond (eq $block "") $block (printf "#%s" $block)) | urlize | lower}}
       {{$href := strings.TrimRight "/" $curpage.RelPermalink}}
-      {{$link := printf "<a href=\"%s%s\" rel=\"noopener\" class=\"internal-link\" data-src=\"%s\">%s</a>" $href $block $href $display}}
+      {{$link := printf "<a href=\"%s%s/\" rel=\"noopener\" class=\"internal-link\" data-src=\"%s\">%s</a>" $href $block $href $display}}
       {{$content = replace $content . $link}}
     <!-- If path to existing file -->
     {{else if fileExists $relpath}}

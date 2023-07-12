@@ -25,5 +25,8 @@ San Francisco has one of the largest populations of transgender people in the Un
 - [[notes/Loophole Rope Jam|Loophole Rope Jam]] (weekly rope jam)
 - [[notes/Transtrendr|Transtrendr]] (yearly rave during [[notes/Pride Weekend|Pride Weekend]])
 - [[notes/Trans March|Trans March]] (yearly march during [[notes/Pride Weekend|Pride Weekend]])
+
+# Not strictly trans-focused but helpful
 - [[notes/baydotlgbt|bay.lgbt]] (general queer calendar aggregator)
 - [[notes/Lust|Lust]] (general queer play party)
+- [[notes/PlayXLand|PlayXLand]] (kink night at bar, many trans attendees)
