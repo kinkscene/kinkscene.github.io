@@ -13,6 +13,13 @@ Cat Club is primarily a bar that serves alcohol, so it is bound by CA liquor con
 
 In addition to the normal type of consent rules that you might expect to find at kink events, PlayXLand has a strict photo policy. There are no photographs allowed during the events, other than by the official staff photographers, who will always ask for explicit permission before taking pictures.
 
+# History
+- 1993-2020 - party exists as "Bondage-a-Go-Go"
+	- [Archived announcement of closure](https://web.archive.org/web/20200824190722/https://twitter.com/Bondageagogo/status/1297973664613150721)
+	- [Archived homepage](https://web.archive.org/web/20170728094618/http://www.bondage-a-go-go.com/en/)
+- 2022 - party restarts as "PlayXLand"
+	- [Archived announcement tweet](https://web.archive.org/web/20211207202845/https://twitter.com/PlayXLandSF1/status/1468315159261184002)
+
 # Links
 - [Instagram](https://www.instagram.com/playxlandsf/)
 - [[notes/Fetlife|Fetlife]] - [profile](https://fetlife.com/users/14197003)
