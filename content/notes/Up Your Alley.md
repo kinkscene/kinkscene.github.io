@@ -9,3 +9,7 @@ Up Your Alley, also known as "Dore Alley" is a yearly BDSM street fair in [[Sout
 
 # Vibes
 If you go to this, you will see lots of penises, you will see people having gay sex in public, and you will probably see people peeing on each other.
+
+# Performance History
+- 2023
+	- [[Twisted Windows]] performances - [link](https://web.archive.org/web/20230712174205/https://www.twistedwindows.com/events/up-your-alley-2023)
