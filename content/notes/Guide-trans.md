@@ -22,7 +22,7 @@ San Francisco has one of the largest populations of transgender people in the Un
 # Events
 - [[T-Slur Thursdays]] (trans-run DJ night at a club in Oakland)
 - [[Gender Fuck]] (trans night at a bathhouse in Berkley)
-- [[Loophole Rope Jam]] (weekly rope jam)
+- [[Koil Rope Jam]] (weekly rope jam)
 - [[Transtrendr]] (yearly rave during [[Pride Weekend]])
 - [[Trans March]] (yearly march during [[Pride Weekend]])
 
