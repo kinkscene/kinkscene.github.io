@@ -28,3 +28,5 @@ Many events in San Francisco are open to people of all persuasions, but there ar
 Much of the information here is public knowledge, but we struggled to find a single resource to point new people to that organized everything into one place.
 
 This wiki is a work in progress, if you see something that is missing or wrong, feel free to open an issue, pull request, or contact the site's administrator.
+
+There are also [[meta]] pages about the site itself.
