@@ -1,7 +1,7 @@
 ---
-title: 'SF Citadel'
+title: SF Citadel (closed)
 tags:
-- venues
+  - venue-public
 ---
 
 The SF Citadel was a kink venue in the Tenderloin neighborhood. They closed in 2020.

@@ -1,8 +1,9 @@
 ---
-title: 'Transform 1060'
+title: Transform 1060
 tags:
-- venues
-- gay-men
+  - gay-men
+  - venue-public
+  - venue-private
 ---
 
 Transform 1060 is a BDSM dungeon in [[South of Market|SoMa]]. It is rentable for private events, and they host their own events.

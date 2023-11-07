@@ -1,8 +1,8 @@
 ---
-title: 'Eros'
+title: Eros
 tags:
-- venues
-- gay-men
+  - gay-men
+  - venue-public
 ---
 
 Eros is a sex club for gay men in the Tenderloin neighborhood.

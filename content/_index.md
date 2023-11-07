@@ -13,7 +13,8 @@ These are links to "tag" pages that link out to a large number of topic pages. T
 
 - [Events](/tags/events)
 - [Education](/tags/education)
-- [Play Spaces](/tags/venues)
+- [Venues for Public Events](/tags/venue-public)
+- [Venues Rentable for Private Events](/tags/venue-private)
 - [Shopping](/tags/shopping)
 - [Bars](/tags/bars)
 

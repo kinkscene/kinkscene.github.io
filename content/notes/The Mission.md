@@ -6,6 +6,8 @@ tags:
 
 The Mission is a neighborhood in San Francisco.
 
+# Event Venues
+- [[Mission Spreadsheets]]
 # Bars
 - [[Jolene's]]
 - [[El Rio]]
